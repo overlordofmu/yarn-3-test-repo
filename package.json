@@ -1,4 +1,7 @@
 {
   "name": "temp-repo",
-  "packageManager": "yarn@3.0.2"
+  "packageManager": "yarn@3.0.2",
+  "dependencies": {
+    "gotrue-js": "^0.9.29"
+  }
 }
